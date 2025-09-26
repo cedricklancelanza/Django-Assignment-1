@@ -1,0 +1,7 @@
+Environment Setup Checklist
+---------------------------
+Python version: 3.12.3
+Virtual environment active: Yes
+Django version: 5.0.3
+Runserver working: Yes (http://127.0.0.1:8000/)
+Git remote set: https://github.com/cedricklancelanza/Django-Assignment-1.git
